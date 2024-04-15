@@ -1,4 +1,6 @@
 # ESO-archive
+When I was an Astronomy PhD students, one of my duties was to prepare an ETL pipeline for extracting data from Astronomical large surveys. 
+
 This script queries and extracts raw and/or processed spectroscopic metadata and the associated FITS files. It creates new sets of metadata for pre-processing and downloads the required files from http://archive.eso.org/cms.html. 
 
 The examples given in http://archive.eso.org/programmatic/ are not practical but they are the inspiration to these codes. 
